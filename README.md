@@ -9,6 +9,15 @@ TODO IMAGE HERE
 Made by Patrick Halim, 2022
 <br><br>
 
+---
+
 ## How it was made
+
+Languages and Frameworks: <em>HTML, CSS, JS, TailwindCSS</em>
+
+### Tailwind Setup
 ```
 npm init -y
+npm install tailwindcss
+```
+asdsa
